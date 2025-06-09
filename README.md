@@ -28,3 +28,15 @@ The aim is to provide actionable insights for inventory planning and business gr
 
 ## Dashboard
 ![dashboard](https://github.com/user-attachments/assets/606d959d-3bbf-4838-86d0-9caad921dbac)
+
+## Project Insights
+- The highest sales occurred during the festive season (October–December), showing a strong seasonal demand.
+- T-shirts and jeans were the top-selling product categories, contributing over 40% of total revenue.
+- Region-wise analysis showed the southern zone outperformed others in both sales and volume.
+- Sales dipped during April and May, indicating possible off-season or external factors affecting performance.
+- Average order value increased in the second half of the year, reflecting improved customer spending.
+- Inventory mismatches were found in low-performing categories like winter wear during summer months.
+
+
+## Final Conclusion
+The Clothes Annual Sales Report – 2022 provided valuable insights into the company’s sales performance over the year. Through detailed analysis using Excel tools, key trends such as seasonal demand peaks, top-performing product categories, and regional sales differences were identified. The dashboard helped visualize important metrics like total revenue, monthly trends, and customer purchasing behavior. These insights can support better decision-making in areas like inventory planning, marketing strategy, and sales forecasting, ultimately helping the business improve efficiency and profitability.
