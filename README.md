@@ -19,3 +19,9 @@ The aim is to provide actionable insights for inventory planning and business gr
 - What is the monthly growth rate in sales?
 - What percentage of total sales comes from each category?
 - How does customer purchase behavior vary by region or time?
+
+## Process
+- Collected and cleaned 2022 clothing sales data using Excel functions and formatting tools.
+- Analyzed data using pivot tables to summarize monthly sales, product performance, and regional trends.
+- Created interactive dashboards with charts, slicers, and key metrics to visualize insights.
+- Generated actionable insights to support inventory planning and strategic decision-making.
