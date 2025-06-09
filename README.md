@@ -25,3 +25,6 @@ The aim is to provide actionable insights for inventory planning and business gr
 - Analyzed data using pivot tables to summarize monthly sales, product performance, and regional trends.
 - Created interactive dashboards with charts, slicers, and key metrics to visualize insights.
 - Generated actionable insights to support inventory planning and strategic decision-making.
+
+## Dashboard
+![dashboard](https://github.com/user-attachments/assets/606d959d-3bbf-4838-86d0-9caad921dbac)
