@@ -6,3 +6,4 @@ It includes dashboards, pivot tables, and charts to track revenue, top-selling p
 The aim is to provide actionable insights for inventory planning and business growth decisions.
 
 ## Dataset Used
+- <a href="https://github.com/SHREYAK124/Data-Analysis-Dashboard/blob/main/cloth%20sales%20dashboard.xlsx">Dataset<a/>
